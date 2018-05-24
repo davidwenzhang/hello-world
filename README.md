@@ -1,2 +1,3 @@
 # hello-world
-Hello World tutorial
+ Hello World tutorial
+This is a simple description for the Hello World github tutorial.
