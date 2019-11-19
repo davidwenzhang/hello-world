@@ -2,5 +2,11 @@ hello world!
 
 test 1
 
+<<<<<<< HEAD
 test 2 - fork changes
 
+=======
+test 2
+
+test 3
+>>>>>>> upstream/master
